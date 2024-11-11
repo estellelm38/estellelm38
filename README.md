@@ -1,6 +1,6 @@
 - Hi, I’m Estelle Long-Merle
-- I’m currently studying Mathematics and Informatics at UGA (University of Grenoble)
-- I'm interested in Machine Learning
+- I am currently pursuing a Master's degree in Informatics through the MOSIG program at IMAG/Ensimag. 
+- I'm interested in Machine Learning and Data Science
 - I am an intern in the robotlearn research team at inria
 
 <!---
